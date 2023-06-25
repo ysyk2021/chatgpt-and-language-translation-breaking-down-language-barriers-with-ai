@@ -26,4 +26,4 @@
 26. Language barriers in international business
 27. Translation quality control
 28. Localization for global audiences
-29. Multilingual virtual assistants.
+29. Multilingual virtual assistants
