@@ -3,13 +3,6 @@ How ChatGPT Can Be Used for Language Translation and Breaking Down Language Barr
 
 ChatGPT is an artificial intelligence (AI) language model developed by OpenAI that has the ability to generate human-like responses to text input. It is a powerful tool that can be used for a variety of applications, including language translation and breaking down language barriers.
 
-How ChatGPT Works
------------------
-
-ChatGPT is based on a type of AI called a transformer, which uses deep learning algorithms to analyze and interpret language. The model is trained on a large corpus of text data, allowing it to learn patterns and relationships between words and phrases.
-
-When given a text input, ChatGPT generates a response based on its understanding of the context and meaning of the input. This makes it an ideal tool for natural language processing tasks, such as language translation.
-
 Using ChatGPT for Language Translation
 --------------------------------------
 
