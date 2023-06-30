@@ -25,7 +25,7 @@ MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. H
 7. Language barriers in business
 8. Global communication strategies
 9. Translation automation
-10. Cultural adaptation in1. Language translation AI
+10. Language translation AI
 11. Chatbot translation services
 12. Natural language processing for translation
 13. AI-powered language translation
