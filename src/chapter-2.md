@@ -1,5 +1,3 @@
-Chapter 1: Basics of Language Translation
-=========================================
 
 Language translation is the process of converting written or spoken words from one language to another. In this chapter, we will explore the definition of language translation, different types of translation services, and the importance of breaking down language barriers.
 

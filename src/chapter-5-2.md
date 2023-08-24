@@ -1,5 +1,3 @@
-Features and capabilities of ChatGPT
-======================================================================
 
 ChatGPT is a powerful tool that utilizes machine learning algorithms to provide accurate translations across multiple languages. In this chapter, we will explore the features and capabilities of ChatGPT in greater detail.
 

@@ -1,5 +1,3 @@
-Different Types of Translation Services
-==================================================================================
 
 Language translation services come in a variety of forms, each with its own strengths and weaknesses. Here are some of the most common types of translation services:
 

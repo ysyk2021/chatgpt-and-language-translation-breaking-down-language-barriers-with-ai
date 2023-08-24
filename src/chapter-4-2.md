@@ -1,5 +1,3 @@
-How AI and Chatbots Can Improve Language Translation
-====================================================================================================================
 
 Artificial intelligence (AI) and chatbots have become powerful tools in the language translation industry, offering a wide range of benefits. In this chapter, we'll explore how AI and chatbots can improve language translation.
 

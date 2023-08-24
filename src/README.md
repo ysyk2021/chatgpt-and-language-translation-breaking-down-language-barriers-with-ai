@@ -1,4 +1,3 @@
-# Introduction
 
 Language is the most important tool for communication between human beings. However, language barriers often prevent people from fully understanding each other, especially when they speak different languages. With the help of artificial intelligence (AI), we can break down these barriers and enable seamless communication across languages.
 

@@ -1,5 +1,3 @@
-Definition of Language Translation
-=============================================================================
 
 Language translation is the process of converting one language into another, while maintaining the meaning and intent of the original text. This can be done manually by human translators or through the use of technology such as machine translation.
 

@@ -1,5 +1,3 @@
-Chapter 6: Future of Language Translation Industry with ChatGPT
-===============================================================
 
 The language translation industry is rapidly evolving, and ChatGPT is at the forefront of this transformation. In this chapter, we'll explore the potential advancements, emerging trends, and challenges in the language translation industry with ChatGPT.
 

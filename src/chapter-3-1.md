@@ -1,5 +1,3 @@
-Factors Affecting Language Translation
-=====================================================================================
 
 Language translation can be a complex and challenging process, affected by a variety of factors that can impact the accuracy and effectiveness of translations. In this chapter, we'll explore some of the key factors that affect language translation.
 

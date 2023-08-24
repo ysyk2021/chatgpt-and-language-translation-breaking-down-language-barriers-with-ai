@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-===============================================================================================
 
 In recent years, the rise of artificial intelligence (AI) has brought about many changes in various industries, including language translation. AI-powered chatbots have become increasingly popular in the language translation field due to their ability to break down language barriers and facilitate communication between individuals who speak different languages.
 

@@ -1,5 +1,3 @@
-Emerging trends and challenges in language translation industry and ChatGPT
-============================================================================================================================================
 
 As ChatGPT continues to revolutionize the language translation industry, there are several emerging trends and challenges that will shape its future development and implementation. In this chapter, we will explore these trends and challenges.
 
