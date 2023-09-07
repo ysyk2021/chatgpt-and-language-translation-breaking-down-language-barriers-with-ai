@@ -10,3 +10,7 @@ Throughout the book, readers will gain a comprehensive understanding of the key 
 Whether you are a language enthusiast or a professional translator, this book will provide you with valuable insights into the world of AI-powered language translation. By the end of the book, readers will have a solid grasp of the latest techniques and technologies used in language translation, and will be able to apply this knowledge to their own work.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
